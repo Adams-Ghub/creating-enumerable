@@ -27,7 +27,7 @@
 # 📖 Create Enumerable <a name="about-project"></a>
 
 
-**Create Enumerable** is a ruby based project where we implement Enumerables of the 
+**Create Enumerable** is a ruby based project where we implement Enumerables. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
